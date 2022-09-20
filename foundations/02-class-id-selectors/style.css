@@ -1,0 +1,21 @@
+
+.punch {
+    background-color: rgb(255, 0, 106) ;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: rgb(106, 202, 106);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.drunk {
+    font-size: 24px;
+    
+}
